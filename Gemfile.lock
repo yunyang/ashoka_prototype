@@ -166,7 +166,7 @@ DEPENDENCIES
   jquery-rails
   rails (= 3.2.6)
   rake
-  rspec-rails
+  rspec-rails (~> 2.0)
   sass-rails (~> 3.2.3)
   simplecov
   sqlite3

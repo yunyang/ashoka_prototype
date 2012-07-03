@@ -41,6 +41,9 @@ group :test do
   gem "cucumber-rails"
   gem "factory_girl_rails"
   gem "simplecov"
-  gem "rspec-rails"
   gem "capybara"
+end
+
+group :test, :development do
+  gem "rspec-rails", "~> 2.0"
 end
