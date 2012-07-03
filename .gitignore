@@ -14,7 +14,7 @@ tmp
 .idea
 *.*~
 log/*
-db/*
+db/*.sqlite3
 
 # YARD artifacts
 .yardoc
